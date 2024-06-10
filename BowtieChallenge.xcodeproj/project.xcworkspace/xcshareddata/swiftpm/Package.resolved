@@ -1,0 +1,42 @@
+{
+  "originHash" : "e6bf5cac79e94fe7d77e8687d7c4d1631389c53f9342b3a357a2d9aa30a38a0e",
+  "pins" : [
+    {
+      "identity" : "browseravailability",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/timtwotoes/BrowserAvailability.git",
+      "state" : {
+        "revision" : "ce138bde8e65b9adbc20ba3fd65e7fa4a4a343b5",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "state" : {
+        "revision" : "0fbc8848e389af3bb55c182bc19ca9d5dc2f255b",
+        "version" : "1.4.0"
+      }
+    },
+    {
+      "identity" : "swiftpackagesbase",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ITzTravelInTime/SwiftPackagesBase",
+      "state" : {
+        "revision" : "79477622b5dbacc3722d485c5060c46a90740016",
+        "version" : "0.0.23"
+      }
+    },
+    {
+      "identity" : "tinuioregistry",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ITzTravelInTime/TINUIORegistry.git",
+      "state" : {
+        "revision" : "16c42406b6e3fd728c673cabfe9a4e94253f1786",
+        "version" : "0.1.3"
+      }
+    }
+  ],
+  "version" : 3
+}
